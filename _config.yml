@@ -3,11 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Vivek
-middle_name: K.
-last_name: Singh
-email: vivek.singh@duke.edu
-description: (he/him) # the ">" symbol means to ignore newlines until "footer_text:"
+first_name: Costanza
+middle_name: 
+last_name: Bosone
+email: costanza.bosone@duke.edu
+description: (she/her) # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
