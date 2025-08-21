@@ -309,8 +309,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Singh]
-  first_name: [Vivek]
+  last_name: [Bosone]
+  first_name: [Costanza]
 
   style: apa
   locale: en
