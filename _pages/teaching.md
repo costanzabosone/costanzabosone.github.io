@@ -14,5 +14,5 @@ I teached the following course at Duke University:
 
 I have  served as a teaching assistant for the following courses at the University of Pavia:
 
-- Statistics: Undergraduate
-- Machine learning: Master 
+- Statistics (Undergraduate)
+- Machine learning (Master)
