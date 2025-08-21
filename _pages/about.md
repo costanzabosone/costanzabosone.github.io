@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I am a first-year Post-Doctoral Researcher jointly affiliated with the [Department of Statistical Sciences](https://stat.duke.edu/) at Duke University and the [Department of Economics and Management](https://economiaemanagement.dip.unipv.it/en) at the University of Pavia. I will be teaching [Introduction to Game Theory](https://focus.duke.edu/clusters-courses/modeling-economic-and-social-sciences) at Duke in the fall of 2025.
 
-My research applies machine learning to economic modeling, focusing on enhancing the interpretability of the Random Forests algorithm. My current application is in the field of international trade.
+My research applies machine learning to economic modeling, focusing on enhancing the interpretability of the [Random Forests] algorithm. My current application is in the field of [international trade].
 
 I recently completed my PhD in Economic Statistics at the University of Pavia and the [University School for Advanced Studies (IUSS)-Pavia](https://www.iusspavia.it/en), under the supervision of 
 [Paolo Giudici](https://sites.google.com/a/unipv.it/giudici/paolo-giudici).  
