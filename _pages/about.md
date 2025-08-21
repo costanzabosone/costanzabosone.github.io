@@ -21,7 +21,7 @@ I am a first-year Post-Doctoral Researcher jointly affiliated with the [Departme
 
 My research applies machine learning to economic modeling, focusing on enhancing the interpretability of the Random Forests algorithm. My current application is in the field of international trade.
 
-I recently completed my PhD in Economic Statistics at the University of Paviaand the [University School for Advanced Studies (IUSS)-Pavia](https://www.iusspavia.it/en), under the supervision of 
+I recently completed my PhD in Economic Statistics at the University of Pavia and the [University School for Advanced Studies (IUSS)-Pavia](https://www.iusspavia.it/en), under the supervision of 
 [Paolo Giudici](https://sites.google.com/a/unipv.it/giudici/paolo-giudici).  
 
 
