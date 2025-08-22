@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-21 07:59:00-0400
+date: 2025-08-26 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Joined the Department of Statistical Sciences, Duke University as a PhD student.
+Teaching an _Introduction to Game Theory_ course at Duke University in the fall.
